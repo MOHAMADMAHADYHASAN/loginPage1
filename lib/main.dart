@@ -44,8 +44,6 @@ class LoginPage extends StatelessWidget {
                     color: Colors.white.withOpacity(0.4),
                     spreadRadius: 3,
                     blurRadius: 10,
-
-
                   )
                 ],
               ),
